@@ -1,0 +1,3 @@
+[submodule "WebApplication1"]
+	path = WebApplication1
+	url = https://github.com/sanchitmoh/Asp-Pracs.git
