@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|c:\\users\\sancheez\\source\\repos\\webmvc\\webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|c:\\users\\sancheez\\source\\repos\\webmvc\\webmvc\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|c:\\users\\sancheez\\source\\repos\\webmvc\\webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|c:\\users\\sancheez\\source\\repos\\webmvc\\webmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE391C9-7AE4-4A80-B968-97E76FB13296}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:31:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:28:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Models\\User.cs",
+              "RelativeToolTip": "WebMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:28:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sancheez\\source\\repos\\WebMVC\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:26:04.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

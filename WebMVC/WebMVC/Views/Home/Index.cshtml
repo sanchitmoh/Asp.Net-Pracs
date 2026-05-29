@@ -1,0 +1,24 @@
+﻿@model WebMVC.Models.User
+
+@{
+    ViewBag.Title = "MVC Demo";
+}
+
+<h2>MVC Framework Demonstration</h2>
+
+@using (Html.BeginForm("Welcome", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+
+        <label>Enter Your Name</label>
+
+        @Html.TextBoxFor(m => m.Name,
+            new { @class = "form-control" })
+
+        <br />
+
+        <input type="submit"
+               value="Submit"
+               class="btn btn-primary" />
+    </div>
+}
