@@ -391,6 +391,9 @@
 
  This consolidated handbook covers Master Pages, Data Bound Controls, LINQ, Cookies, Sessions, Web Services, MVC, Stored Procedures, SQL Server setup, Connection Strings, common controls, Visual Studio shortcuts, and viva Q&A — presented as a single reference for practical ASP.NET Web Forms and MVC development.
 
+https://chatgpt.com/share/6a19f9ec-748c-83a8-ae0e-cdf5ca357953
+ 
+
  If you want, I can:
  - Commit these changes to a branch, or
  - Create a downloadable PDF of this handbook, or
